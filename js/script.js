@@ -46,7 +46,7 @@ $('.another-part').slick({
 // preloder
 $(window).load(function() {
 	//$("#loading").delay(2000).fadeOut(500);
-	$("#loading").fadeOut(10000);
+	$("#loading").fadeOut(1000);
 })
 
 
